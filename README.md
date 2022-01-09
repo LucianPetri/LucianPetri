@@ -31,8 +31,10 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/xaikodev"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="xaikodev" /></a></p><br><br>
 
-<p><img align="center" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs?username=lucianpetri&show_icons=true&locale=en&layout=compact" alt="lucianpetri" /></p>
+<p><img align="center" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs?username=lucianpetri&show_icons=true&locale=en&layout=compact&theme=onedark" alt="lucianpetri" /></p>
 
-<p>&nbsp;<img align="center" width="100%" src="https://github-readme-stats.vercel.app/api?username=lucianpetri&show_icons=true&locale=en" alt="lucianpetri" /></p>
+<p>&nbsp;<img align="center" width="100%" src="https://github-readme-stats.vercel.app/api?username=lucianpetri&show_icons=true&locale=en&theme=onedark" alt="lucianpetri" /></p>
 
-<p><img align="center" width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=lucianpetri&" alt="lucianpetri" /></p>
+<p><img align="center" width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=lucianpetri&theme=onedark" alt="lucianpetri" /></p>
+
+<p><img align="center" width="100%" src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark" alt="trophies"/></p>
