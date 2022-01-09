@@ -38,3 +38,5 @@
 <p><img align="center" width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=lucianpetri&theme=onedark" alt="lucianpetri" /></p>
 
 <p><img align="center" width="100%" src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark" alt="trophies"/></p>
+
+<p><img align="center" width="100%" src="https://github.com/lucianpetri/lucianpetri/blob/output/github-contribution-grid-snake.svg" alt="Snake Contributions"/></p>
