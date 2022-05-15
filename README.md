@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Web3.js / Next.js / Solidity / C++ EOSIO**
 
-- 👯 Aaand I’m looking to collaborate on [Universum](https://www.xaikodev.com/universum)
+- 👯 Aaand I’m looking to collaborate on [Masters Of The Realm](https://www.xaikodev.com/universum)
 
 - 🤝 I’m looking for help with **EOSIO / Solidity Smart Contracts**
 
