@@ -1,5 +1,4 @@
 <h1 align="center">Welcome 👋, I'm Lucian Petri - Xaiko Developer</h1>
-<h3 align="center">An ambitious developer with ADHD and time on hand.</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=lucianpetri&label=Profile%20views&color=0e75b6&style=flat" alt="lucianpetri" /> </p>
 
