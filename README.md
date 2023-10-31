@@ -22,9 +22,6 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/xaikodev"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="xaikodev" /></a></p><br>
 
-<p><img align="center" width="100%" src="https://github.com/lucianpetri/lucianpetri/blob/output/github-contribution-grid-snake.svg" alt="Snake Contributions"/></p>
-<br>
-
 <p><img align="center" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs?username=lucianpetri&show_icons=true&locale=en&layout=compact&theme=onedark" alt="lucianpetri" /></p>
 
 <p>&nbsp;<img align="center" width="100%" src="https://github-readme-stats.vercel.app/api?username=lucianpetri&show_icons=true&locale=en&theme=onedark" alt="lucianpetri" /></p>
