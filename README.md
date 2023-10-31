@@ -2,14 +2,6 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=lucianpetri&label=Profile%20views&color=0e75b6&style=flat" alt="lucianpetri" /> </p>
 
-- 🔭 I’m currently working on [my Personal website](https://www.xaikodev.com/)
-
-- 🌱 I’m currently learning **Web3.js / Next.js / Solidity / C++ EOSIO**
-
-- 👯 Aaand I’m looking to collaborate on [Masters Of The Realm](https://www.xaikodev.com/universum)
-
-- 🤝 I’m looking for help with **EOSIO / Solidity Smart Contracts**
-
 - 👨‍💻 All of my projects are available at [https://github.com/xaikodev](https://github.com/xaikodev) and [https://github.com/LucianPetri](https://github.com/LucianPetri)
   <img>
 
